@@ -1,0 +1,4 @@
+mini conda
+samtools
+hisat2
+python
