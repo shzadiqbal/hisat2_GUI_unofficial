@@ -12,7 +12,7 @@ A user-friendly GUI wrapper for the HISAT2 RNA-Seq aligner, designed to make gen
 - **Annotation Support**: Optional GTF/GFF3 integration for spliced alignment
 - **Real-Time Monitoring**: Color-coded progress logging
 - **BAM Conversion**: Automatic SAM-to-BAM conversion
-- **Cross-Platform**: Works on Windows, Linux, and macOS
+- **Cross-Platform**: Works on Windows (via WSL), Linux, and MacOS
 
 ## Installation
 just download the main file and run it via "python hisat2_GUI.py"
